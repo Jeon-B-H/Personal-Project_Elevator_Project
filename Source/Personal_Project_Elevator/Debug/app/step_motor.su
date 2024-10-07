@@ -1,0 +1,2 @@
+../app/step_motor.c:9:6:control_step_motor	56	static
+../app/step_motor.c:41:6:enter_IN_value	16	static
