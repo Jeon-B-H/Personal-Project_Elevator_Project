@@ -1,7 +1,7 @@
 ## Personal-Project_Elevator_Project
 
 ### 1. 목적
-- App을 통해 제어할 수 있는 엘리베이터 제작을통한 STM32 MCU,광차단센서, Step Motor, App Invertor 제작 및 이해
+- App을 통해 제어할 수 있는 엘리베이터 제작을 통한 STM32 MCU,광차단센서, Step Motor, App Invertor 제작 및 이해
 
 <br><br>
 
